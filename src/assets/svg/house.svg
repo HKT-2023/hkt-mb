@@ -1,0 +1,6 @@
+<svg fill="currentColor" width="24px" height="24px" viewBox="0 0 1.08 1.08" version="1.1" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>house-solid</title>
+    <path class="clr-i-solid clr-i-solid-path-1" d="M0.99 0.57a0.03 0.03 0 0 1 -0.021 -0.009L0.54 0.132 0.111 0.561A0.03 0.03 0 0 1 0.069 0.519l0.45 -0.45a0.03 0.03 0 0 1 0.042 0l0.45 0.45A0.03 0.03 0 0 1 0.99 0.57Z"/>
+    <path class="clr-i-solid clr-i-solid-path-2" d="M0.54 0.234 0.18 0.595V0.96a0.06 0.06 0 0 0 0.06 0.06h0.21V0.72h0.18v0.3h0.21a0.06 0.06 0 0 0 0.06 -0.06V0.593Z"/>
+    <path x="0" y="0" width="36" height="36" fill-opacity="0" d="M0 0H1.08V1.08H0V0z"/>
+</svg>

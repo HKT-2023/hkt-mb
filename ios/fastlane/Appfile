@@ -1,0 +1,8 @@
+app_identifier("com.realestate.marketplace") # The bundle identifier of your app
+apple_id("inbeevnmobile@gmail.com") # Your Apple Developer Portal username
+
+itc_team_id("126262058") # App Store Connect Team ID
+team_id("5GFKF9MJBD") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
